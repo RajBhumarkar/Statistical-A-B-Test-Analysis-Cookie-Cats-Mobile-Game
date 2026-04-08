@@ -12,7 +12,7 @@ The analysis evaluates how this change affects player behavior, specifically foc
 ## Repository Structure
 ```text
 ├── data/
-│   └── cookie.csv             # The raw dataset containing user A/B test results
+│   └── cookie_cats.csv             # The raw dataset containing user A/B test results
 ├── notebook/
 │   └── ab_test.ipynb          # Jupyter notebook containing the full EDA and statistical testing
 └── README.md
